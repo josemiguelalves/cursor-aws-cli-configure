@@ -2,7 +2,7 @@
   "name": "cursor-aws-cli-configure",
   "displayName": "AWS CLI Configure for Cursor",
   "description": "Quickly access the AWS CLI config & credentials files and set any named profile as the [default] profile. Adapted for Cursor IDE.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "josemiguelalves",
   "license": "MIT",
   "icon": "images/icon.png",

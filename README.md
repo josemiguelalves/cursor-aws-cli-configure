@@ -137,7 +137,7 @@ Please follow the existing code style and add tests where appropriate.
 ## Credits
 
 - Original VS Code extension: [aws-cli-configure](https://github.com/rmtuckerphx/aws-cli-configure) by [Mark Tucker](https://github.com/rmtuckerphx) — MIT License
-- Cursor adaptation: [Jose Miguel Alves](https://github.com/josemiguelalves)
+- Cursor extension: [Jose Miguel Alves](https://github.com/josemiguelalves)
 
 ---
 
