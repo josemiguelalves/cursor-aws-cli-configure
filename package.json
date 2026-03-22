@@ -2,7 +2,7 @@
   "name": "aws-cli-configure-ext",
   "displayName": "AWS CLI Configure",
   "description": "Quickly access the AWS CLI config & credentials files and set any named profile as the [default] profile. Works with any VS Code-compatible editor.",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "publisher": "josemiguelalves",
   "license": "MIT",
   "icon": "images/icon.png",
@@ -28,12 +28,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/josemiguelalves/cursor-aws-cli-configure.git"
+    "url": "https://github.com/josemiguelalves/aws-cli-configure-ext.git"
   },
   "bugs": {
-    "url": "https://github.com/josemiguelalves/cursor-aws-cli-configure/issues"
+    "url": "https://github.com/josemiguelalves/aws-cli-configure-ext/issues"
   },
-  "homepage": "https://github.com/josemiguelalves/cursor-aws-cli-configure#readme",
+  "homepage": "https://github.com/josemiguelalves/aws-cli-configure-ext#readme",
   "activationEvents": [
     "onStartupFinished"
   ],

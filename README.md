@@ -72,15 +72,15 @@ Search for **"AWS CLI Configure"** in your editor's Extensions panel and install
 
 ### Manual VSIX install
 
-1. Download the latest `.vsix` from the [Releases](https://github.com/josemiguelalves/cursor-aws-cli-configure/releases) page.
+1. Download the latest `.vsix` from the [Releases](https://github.com/josemiguelalves/aws-cli-configure-ext/releases) page.
 2. In your editor, open the Command Palette and run **"Extensions: Install from VSIX..."**.
 3. Select the downloaded `.vsix` file.
 
 ### Build from source
 
 ```bash
-git clone https://github.com/josemiguelalves/cursor-aws-cli-configure.git
-cd cursor-aws-cli-configure
+git clone https://github.com/josemiguelalves/aws-cli-configure-ext.git
+cd aws-cli-configure-ext
 npm install
 npm run package        # produces aws-cli-configure-ext-x.x.x.vsix
 # Install the generated .vsix via "Extensions: Install from VSIX..."
